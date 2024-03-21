@@ -1,5 +1,5 @@
 # Making Hilbert Curve from image
-* In `curve.py` contained Python code to convert RGB or grayscale image to **Hilbert Space-Filling Curve** (also works with PNG)
+* In `curve.py`  Python code to convert RGB or grayscale image to **Hilbert Space-Filling Curve** (also works with PNG)
 * In `example.ipynb` example of usage with visualization
 * #### ⭐Star the repo, if you like it!⭐
 ## Prerequisites:
@@ -13,8 +13,8 @@ pip install -r requirements.txt
 
 
 ## Visualization
-* This is original images(left), and reshaped Hilbert Curve images(right)
-* because Hilbert Curve is 1-d(its length), line was reshaped to square on this image
+* Original images(left), and reshaped Hilbert Curve images(right)
+* Because Hilbert Curve is 1-d(its length), line was reshaped to square to represent as image
 ![alt image](images/image.png)
 
 ## Acknowledges

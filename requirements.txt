@@ -1,0 +1,3 @@
+nympy
+matplotlib
+numpy-hilbert-curve
